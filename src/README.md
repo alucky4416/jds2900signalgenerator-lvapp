@@ -14,7 +14,7 @@ LabVIEW application for JDS-2900 Signal Generator (UNOFFICIAL)
   * ** NI-VISA 14.0 or later **
 
 # Start
- * Download souce (https://github.com/alucky4416/jds2900signalgenerator-lvapp/)
+ * Download source ( https://github.com/alucky4416/jds2900signalgenerator-lvapp.git )
  * JDS-2900 connect to PC via USB.
  * Power ON JDS-2900
  * Check COM port number(ex. COM3 or COM4 or ..) from Device and Interface on the NI-MAX.
