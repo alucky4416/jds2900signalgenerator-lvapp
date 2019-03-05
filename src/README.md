@@ -2,16 +2,16 @@ LabVIEW application for JDS-2900 Signal Generator (UNOFFICIAL)
 =================================================
 
 # Overview
-  This LabVIEW application(not driver) is that can be remote control
+  This LabVIEW application(not a driver) is that can be to remote control
   JDS-2900 via USB(virtual COM port).
   You can change the values of Wave Type, Frequency, Amplitude, Offset and Duty.
-  This software is ** UNOFFICIAL.**
-  ** Please do not ask the manufacturer or seller about this software.**
+  This software is **UNOFFICIAL.**
+  **Please do not ask the manufacturer or seller about this software.**
 
 # Requirements
   * Windows(7/8/10) PC with USB port (Type A)
-  * ** LabVIEW 2014 or later **
-  * ** NI-VISA 14.0 or later **
+  * **LabVIEW 2014 or later **
+  * **NI-VISA 14.0 or later **
 
 # Start
  * Download source ( https://github.com/alucky4416/jds2900signalgenerator-lvapp.git )
@@ -20,7 +20,7 @@ LabVIEW application for JDS-2900 Signal Generator (UNOFFICIAL)
  * Check COM port number(ex. COM3 or COM4 or ..) from Device and Interface on the NI-MAX.
  * Launch LabVIEW and open LvJDS2900SignalGeneratorApp.lvproj from source files
  * Open ** LvJDS2900SignalGeneratorApp.vi **
- * ** Enter COM port number.**
+ * **Enter COM port number.**
  * Press Run button
 
 # License
